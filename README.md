@@ -1,6 +1,6 @@
 <h1 align="center">💫 Guess My Number! 💫</h1>
 
-<p align="center"><img src="https://img.shields.io/badge/Created_By-Sayantan_Bera-blue"> <img src="https://img.shields.io/badge/Using-HTML_CSS-red"></p>
+<p align="center"><img src="https://img.shields.io/badge/Created_By-Sayantan_Bera-blue"> <img src="https://img.shields.io/badge/Using-HTML_CSS_JAVASCRIPT-red"></p>
 
 <h2>🚀 Watch Live :</h2>
 
