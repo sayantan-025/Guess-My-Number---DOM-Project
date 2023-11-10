@@ -4,7 +4,7 @@
 
 <h2>🚀 Watch Live :</h2>
 
-[www.GuessMyNumber.com](https://squares-and-circles.netlify.app/)
+[www.GuessMyNumber.com](https://guess-my-number25.netlify.app/)
 
 <h2>👁️ Project Overview :</h2>
 
